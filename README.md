@@ -19,3 +19,6 @@ Needed help on the Word Blanks portion of the course, 40/113 complete.
 
 ### R1D4 
 Was not able to code on 1/28/2022. 50/113 coding challenges complete in Basic JS course.
+
+### R1D5 
+Missed a day (1/30/31). 57/113 challenges completed in Basic JS course. Got assistance with "Stand in Line" and "Assignment with a Returned Value". 
