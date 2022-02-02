@@ -25,3 +25,6 @@ Missed a day (1/30/31). 57/113 challenges completed in Basic JS course. Got assi
 
 ### R1D6
 75/113 challenges completed in Basic JS course. 
+
+### R1D7 
+81/113 challenges completed in Basic JS course. 
