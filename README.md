@@ -31,3 +31,6 @@ Missed a day (1/30/31). 57/113 challenges completed in Basic JS course. Got assi
 
 ### R1D8
 Missed a couple days of coding. 86/113 exercises completed in Basic JS course. Needed assistance with "Counting Cards" exercise. Will start downloading solutions on questions I need help with.
+
+### R1D9
+94/113 challenges complete. Needed help with "Testing Objects for Properties" exercise, downloaded solution. 
