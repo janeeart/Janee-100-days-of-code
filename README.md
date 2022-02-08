@@ -37,3 +37,6 @@ Missed a couple days of coding. 86/113 exercises completed in Basic JS course. N
 
 ### R1D10
 100/113 challenges complete. Checked solution on "Record Collection" and downloaded. Looked at hint for "Iterate with JS while loops" because I was getting an infinite loop error. I am going to be more specific in my notes about whether I am getting help through hints, solutions, or Googling. Also looked at the solution on "Iterate Through an Array with a For Loop" exercise, I needed to declare the variable with let. 
+
+### R1D11 
+104/113 challenges complete. I looked at freeCodeCamp comments, Stack Overflow, and Quora for "Nesting for Loops" exercise. I ended up having a curly bracket in the wrong place, fixed that and solved it. I also looked at the hints and the solution on the "Profile Lookup" exercise. I needed to make a for loop and nest the if...else statements. Solution downloaded.
