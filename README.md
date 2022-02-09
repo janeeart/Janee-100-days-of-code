@@ -40,3 +40,10 @@ Missed a couple days of coding. 86/113 exercises completed in Basic JS course. N
 
 ### R1D11 
 104/113 challenges complete. I looked at freeCodeCamp comments, Stack Overflow, and Quora for "Nesting for Loops" exercise. I ended up having a curly bracket in the wrong place, fixed that and solved it. I also looked at the hints and the solution on the "Profile Lookup" exercise. I needed to make a for loop and nest the if...else statements. Solution downloaded.
+
+### R1D12
+109/113 challenges complete. They have become increasingly more difficult to solve as I have progressed through the course, which has caused me to be more resourceful. I looked for help in freeCodeCamp comments on "Generate Random Whole Numbers with JS" exercise and I realized I wasn't being specific in my return and made the change then solved. 
+
+I looked at the hint on "Use the parseInt() function" exercise, another return issue. Fixed and solved. 
+
+Looked at freeCodeCamp comments to understand "Use the parseInt Function with a Radix" exercise example. Learned about binary number systems. 
