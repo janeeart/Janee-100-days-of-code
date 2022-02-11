@@ -47,3 +47,8 @@ Missed a couple days of coding. 86/113 exercises completed in Basic JS course. N
 I looked at the hint on "Use the parseInt() function" exercise, another return issue. Fixed and solved. 
 
 Looked at freeCodeCamp comments to understand "Use the parseInt Function with a Radix" exercise example. Learned about binary number systems. 
+
+### R1D13
+113/113 Basic JS Challanges complete! Found help on StackOverFlow on "Use recursion to create a countdown" challenge where I learned about the .unshift method and used it for my first time.  
+
+I watched a video for help on "Use recursion to create a range of numbers" challenge. 
