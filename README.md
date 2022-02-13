@@ -52,3 +52,6 @@ Looked at freeCodeCamp comments to understand "Use the parseInt Function with a 
 113/113 Basic JS Challanges complete! Found help on StackOverFlow on "Use recursion to create a countdown" challenge where I learned about the .unshift method and used it for my first time.  
 
 I watched a video for help on "Use recursion to create a range of numbers" challenge. 
+
+### R1D14
+Began the ES6 portion of JavaScript Data Structures and Algorithm certification course, 4/29 exercises complete. Looked at hints and comments for "Mutate an Array Declare with Const" exercise as well as Github. 
