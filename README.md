@@ -55,3 +55,6 @@ I watched a video for help on "Use recursion to create a range of numbers" chall
 
 ### R1D14
 Began the ES6 portion of JavaScript Data Structures and Algorithm certification course, 4/29 exercises complete. Looked at hints and comments for "Mutate an Array Declare with Const" exercise as well as Github. 
+
+### R1D15
+Looked at hint and then solution for "Use the rest paramenter with function parameters" exercise. I needed to correct the parameter name to "args". 7/29 complete. 
