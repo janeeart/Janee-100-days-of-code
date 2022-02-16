@@ -58,3 +58,6 @@ Began the ES6 portion of JavaScript Data Structures and Algorithm certification 
 
 ### R1D15
 Looked at hint and then solution for "Use the rest paramenter with function parameters" exercise. I needed to correct the parameter name to "args". 7/29 complete. 
+
+### R1D16
+8/29 ES6 exercises complete. 3/20 Basic Data Structures exericses complete (new section). 
