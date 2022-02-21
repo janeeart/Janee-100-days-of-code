@@ -60,7 +60,10 @@ Began the ES6 portion of JavaScript Data Structures and Algorithm certification 
 Looked at hint and then solution for "Use the rest paramenter with function parameters" exercise. I needed to correct the parameter name to "args". 7/29 complete. 
 
 ### R1D16
-8/29 ES6 exercises complete. 3/20 Basic Data Structures exericses complete (new section). Also completed 2/24 fucntional programming exercises. 
+8/29 ES6 exercises complete. 3/20 Basic Data Structures exericses complete (new section). Also completed 2/24 functional programming exercises. 
 
 ### R1D17 
 3/16 Basic Algorithm Scripting exercises complete. 
+
+### R1D18 
+Was jumping around a bit in the course and doing research for tech interviews, but getting back to logging things accurately. 13/29 ES6 exercises complete. 4/20 Basic Data Structures exercises complete. Looked at solution for "Use Destructuring Assignment to Assign Variables from Arrays" exercise and "Use Destucturing Assignment with the Rest Paramenter to Reassign Array Elements".
