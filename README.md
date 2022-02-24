@@ -67,3 +67,6 @@ Looked at hint and then solution for "Use the rest paramenter with function para
 
 ### R1D18 
 Was jumping around a bit in the course and doing research for tech interviews, but getting back to logging things accurately. 13/29 ES6 exercises complete. 4/20 Basic Data Structures exercises complete. Looked at solution for "Use Destructuring Assignment to Assign Variables from Arrays" exercise and "Use Destucturing Assignment with the Rest Paramenter to Reassign Array Elements".
+
+### R1D19
+Started Blind 75's 5-Week interview prep schedule on 2/22/2022, did first two leetcode problems. 15/29 ES6 exercises complete, looked at solution for both "Use Destructuring Assignment to Pass an Object as a Function's Parameters" and "Create Strings Using Template Literals". I used map method in the latter exercise.
