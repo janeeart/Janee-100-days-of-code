@@ -70,3 +70,6 @@ Was jumping around a bit in the course and doing research for tech interviews, b
 
 ### R1D19
 Started Blind 75's 5-Week interview prep schedule on 2/22/2022, did first two leetcode problems. 15/29 ES6 exercises complete, looked at solution for both "Use Destructuring Assignment to Pass an Object as a Function's Parameters" and "Create Strings Using Template Literals". I used map method in the latter exercise.
+
+### R1D20
+18/29 ES6 exercises complete, looked at hints on "Write Concise Object Literal Declarations Using Object Property Shorthand" and "Use Class Syntax to Define a Constructor Function". 
