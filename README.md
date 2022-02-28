@@ -73,3 +73,6 @@ Started Blind 75's 5-Week interview prep schedule on 2/22/2022, did first two le
 
 ### R1D20
 18/29 ES6 exercises complete, looked at hints on "Write Concise Object Literal Declarations Using Object Property Shorthand" and "Use Class Syntax to Define a Constructor Function". 
+
+### R1D21
+24/25 ES6 exercises complete, looked at hints and solution for "Use getters and setters to control access to an object" exercise.
