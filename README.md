@@ -79,3 +79,6 @@ Started Blind 75's 5-Week interview prep schedule on 2/22/2022, did first two le
 
 ### R1D22
 28/29 ES6 exercises complete + solved new algorithm on Leetcode. Looked at solution on "Handle Fulfilled Promise with Then" exercise.
+
+### R1D23 
+Completed ES6 component of certification. Began Debugging component, 4/12 exercises complete. 
