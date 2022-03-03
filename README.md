@@ -82,3 +82,6 @@ Started Blind 75's 5-Week interview prep schedule on 2/22/2022, did first two le
 
 ### R1D23 
 Completed ES6 component of certification. Began Debugging component, 4/12 exercises complete. 
+
+### R1D24
+Completed Debugging component of certification (12/12). 
