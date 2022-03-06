@@ -85,3 +85,6 @@ Completed ES6 component of certification. Began Debugging component, 4/12 exerci
 
 ### R1D24
 Completed Debugging component of certification (12/12). 
+
+### R1D25
+8/20 Basic Data Structures Exercises complete. Looked at hints, solution, and YouTube for "Copy an Array with the Spread Operator", found that in order to push a new array into the existing array and not just the values, I needed to wrap the spread operator with brackets.
